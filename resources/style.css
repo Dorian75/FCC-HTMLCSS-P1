@@ -1,0 +1,50 @@
+html {
+    font-size: 18px;
+}
+
+#main {
+    font-size: 18px;
+    color: #333333;
+}
+
+nav {
+    background-color: #010101;
+    color: #ffffff;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#left-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.green-btn {
+    background-color: #47cf73;
+    color: #000000;
+}
+
+.grey-btn {
+    background-color: #444857 !important;
+    color: #ffffff;
+}
+
+#body-div {
+    background-color: #eeeeee;
+    text-align: center;
+}
+
+#img-div {
+    background-color: #ffffff;
+}
+
+#tribute-link {
+    color: #477ca7;
+}
+
+#tribute-link:visited {
+    color: #74638f;
+}
